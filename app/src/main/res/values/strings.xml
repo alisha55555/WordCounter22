@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounterApp</string>
+    <string name="input_hint">Enter Text</string>
+    <string name="button_text">Count</string>
+    <string name="result_text">Result:</string>
+    <string name="error_empty_input">it is empty!</string>
+</resources>
